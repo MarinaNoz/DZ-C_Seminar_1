@@ -1,0 +1,15 @@
+C:\_git_education\Example_1\bin\Debug\net6.0\Example_1.exe
+C:\_git_education\Example_1\bin\Debug\net6.0\Example_1.deps.json
+C:\_git_education\Example_1\bin\Debug\net6.0\Example_1.runtimeconfig.json
+C:\_git_education\Example_1\bin\Debug\net6.0\Example_1.dll
+C:\_git_education\Example_1\bin\Debug\net6.0\Example_1.pdb
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.csproj.AssemblyReference.cache
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfoInputs.cache
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfo.cs
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.csproj.CoreCompileInputs.cache
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.dll
+C:\_git_education\Example_1\obj\Debug\net6.0\refint\Example_1.dll
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.pdb
+C:\_git_education\Example_1\obj\Debug\net6.0\Example_1.genruntimeconfig.cache
+C:\_git_education\Example_1\obj\Debug\net6.0\ref\Example_1.dll
